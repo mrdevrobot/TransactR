@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="0.4.0"></a>
+## [0.4.0](https://www.github.com/mrdevrobot/TransactR/releases/tag/v0.4.0) (2026-11-12)
+
+### Features
+
+* target net10.0 and net11.0, drop end-of-life frameworks ([065d288](https://www.github.com/mrdevrobot/TransactR/commit/065d288d78e26cd343e487a2df89c83f8a67a123))
+
 <a name="0.3.2"></a>
 ## [0.3.2](https://www.github.com/lucafabbri/TransactR/releases/tag/v0.3.2) (2025-09-09)
 
